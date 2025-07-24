@@ -6598,7 +6598,7 @@ p {
     visibility: visible;
 }
 
-.discover {
+.test-demo {
     background: #1a73e8;
     color: #fff !important;
     padding: 12px 32px;
@@ -6609,7 +6609,7 @@ p {
     text-decoration: none;
     transition: background 0.3s;
 }
-.discover:hover {
+.test-demo:hover {
     background: #155ab6;
     color: #fff !important;
     text-decoration: none;
