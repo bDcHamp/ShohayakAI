@@ -1729,7 +1729,7 @@ p {
 /* Footer */
 
 .robotics_footer_portion .contact_portion {
-    background: var(--e-global-color-secondary);
+    background: var(--e-global-color-soft-blue);
     position: relative;
     padding: 84px 0;
     border-radius: 10px;
@@ -1801,7 +1801,7 @@ p {
 }
 .robotics_footer_portion .footer-section{
     background: var(--e-global-color-very-dark-mostly-black-blue);
-    padding-top: 326px;
+    padding-top: 50px;
     position: relative;
 }
 .robotics_footer_portion .footer-section .middle-portion{
@@ -5276,7 +5276,7 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    padding: 95px 0 110px;
+    padding: 9px 0 10px;
     border-radius: 10px;
     margin-bottom: -224px;
     z-index: 1;
@@ -5320,7 +5320,7 @@ p {
 }
 .custom_footer_portion .footer-section{
     background-image: linear-gradient(to bottom, var(--e-global-color-dark-cyan) -90%, var(--e-global-color-very-pale-mostly-white-cyan) 100%);
-    padding-top: 326px;
+    padding-top: 126px;
     position: relative;
 }
 .custom_footer_portion .footer-section .middle-portion{
