@@ -6597,3 +6597,20 @@ p {
     opacity: 1;
     visibility: visible;
 }
+
+.discover {
+    background: #1a73e8;
+    color: #fff !important;
+    padding: 12px 32px;
+    border-radius: 30px;
+    font-weight: 600;
+    border: none;
+    display: inline-block;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+.discover:hover {
+    background: #155ab6;
+    color: #fff !important;
+    text-decoration: none;
+}
